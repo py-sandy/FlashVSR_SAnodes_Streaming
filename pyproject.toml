@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_sanodes"
+description = "FlashVSR streaming for large video files in ComfyUI: bounded frame windows with same-frame overlap blending."
+version = "1.3.0"
+license = { text = "GPL-3.0-only" }
+dependencies = ["numpy"]
+
+[project.urls]
+Repository = "https://github.com/py-sandy/FlashVSR_SAnodes_Streaming"
+
+[tool.comfy]
+PublisherId = "py-sandy"
+DisplayName = "ComfyUI SAnodes — FlashVSR streaming"
+Icon = ""

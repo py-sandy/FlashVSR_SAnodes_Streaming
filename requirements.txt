@@ -1,0 +1,3 @@
+# SAnodes uses the dependencies already installed by
+# ComfyUI-FlashVSR_Stable and ComfyUI-VideoHelperSuite.
+numpy
